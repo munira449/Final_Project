@@ -38,7 +38,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
+VIRTUAL_ENV="C:\Users\User\Desktop\Jui\Library Management System\myenv"
+=======
 VIRTUAL_ENV="C:\Users\User\Desktop\Library Management System\myenv"
+>>>>>>> 9a984f7cd82183a98e1a5ba58748a98f290a00ef
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
